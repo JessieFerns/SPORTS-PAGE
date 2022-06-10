@@ -1,0 +1,97 @@
+#title{
+font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    width: 300px;
+    margin-left: 410px;
+}
+
+#mj{
+    font-size: 30px;
+}
+
+#quote{
+    font-size: 25px;
+}
+
+#list{
+    font-size: 30px;
+    background-color: grey;
+    color: white;
+    border-radius: 25px;
+    padding: 20px;
+    margin-right: 885px;
+}
+
+body{
+    background-color: #8e93d1;
+}
+
+.sport p{
+    font-size: 26px;
+    text-align: center;
+    background-color: bisque;
+    border-radius: 25px;
+}
+
+.modal-header h4{
+    font-size: 24px;
+}
+
+.button{
+    width: 2em;
+    height: 2em;
+    border-radius: 2em;
+    float: right;
+    text-align: center;
+    font-size: 1.1em;
+    background-color: firebrick;
+    color: white;
+}
+
+.button:hover{
+    opacity:.75;
+}
+
+.mc{
+    background-color: #ffbfb3;
+}
+
+.modal-body{
+    text-align: center;
+}
+
+.p_modal{
+    font-size: 20px;
+    margin-top: 13px;
+}
+
+.link{
+    border: 2px dotted;
+    margin-top: 13px;
+}
+
+.sport img{
+    height: 300px;
+    width: 400px;
+}
+
+.img_modal{
+    height: 500px;
+    border-radius: 25px;
+}
+
+#football_img {
+   margin-left: 5px;
+}
+
+#basketball_img {
+   margin-left: 30px;
+}
+
+#hockey_img {
+   margin-left: 25px;
+}
